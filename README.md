@@ -1,7 +1,8 @@
 # HOW TO USE
 ## INSTALL
 
-Open chrome go to chrome://extensions, Enable Developer mode, Load unpacked, select the `dist` folder and you should be ready to go!
+Open chrome go to chrome://extensions, Enable Developer mode, Load unpacked, select the folder and make sure manifest is present.
+You should now be ready to go!
 
 ## RUN THE SERVER
 
